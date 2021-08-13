@@ -1,5 +1,5 @@
-#This is a chrome Extension
+# This is a chrome Extension
 
-###Features
+### Features
 
 This **Extension** is used to make Background Color Change!
